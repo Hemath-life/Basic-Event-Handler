@@ -1,0 +1,9 @@
+.idea/
+.vscode/
+node_modules/
+build
+.DS_Store
+*.tgz
+1App.js
+1App.css
+package-lock.json
